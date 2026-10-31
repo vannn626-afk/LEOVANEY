@@ -1,0 +1,6 @@
+{
+  "name": "LEOVANEY",
+  "description": "Aplikasi pengelola keuangan pribadi native Android untuk satu pengguna dengan desain black-white glassmorphism, penyimpanan lokal Room Database, dan laporan lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
